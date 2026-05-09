@@ -1,0 +1,31 @@
+[
+    {
+        "nome": "300",
+        "lancamento": 2000,
+        "genero": [
+            "acao"
+        ]
+    },
+    {
+        "nome": "MIB",
+        "lancamento": 1999,
+        "genero": [
+            "comedia"
+        ]
+    },
+    {
+        "nome": "Naruto",
+        "lancamento": 2021,
+        "genero": [
+            "aventura"
+        ]
+    },
+    {
+        "nome": "teste",
+        "lancamento": 1900,
+        "genero": [
+            "acao",
+            "drama"
+        ]
+    }
+]
