@@ -24,10 +24,10 @@ Sistema de gerenciamento de filmes via terminal desenvolvido em Python. Permite 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RedRagnar-DS/menu_filmes.git
 
 # Acesse a pasta
-cd seu-repositorio
+cd menu_filmes
 
 # Execute o programa
 python menu_filmes.py
@@ -40,7 +40,7 @@ python menu_filmes.py
 ## 🗂️ Estrutura do projeto
 
 ```
-📁 seu-repositorio/
+📁 menu_filmes/
 ├── menu_filmes.py   # Script principal
 ├── filmes.json      # Gerado automaticamente ao salvar filmes
 └── README.md
